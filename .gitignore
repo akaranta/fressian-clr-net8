@@ -9,3 +9,5 @@ src/clr/obj
 [Dd]ebug
 [Rr]elease
 *.suo
+/src/clr/.vs/**
+**/obj/**
